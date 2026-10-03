@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+}
+html,body{
+    height:100%;
+    width:100%; 
+}
+.card{
+    margin-left:5px;
+    border-radius:10px;
+    border:1px solid black;
+    height:210px;
+    width:160px;
+}
+.card img{  
+    image-size:cover;
+    overflow:hidden;
+    height:210px;
+    width:160px;
+}
+#main{
+     display:flex;
+    align-items:center;
+    justify-content:center;
+}
+#second{
+    margin-top:5px;
+     display:flex;
+    align-items:center;
+    justify-content:center;
+}
+#third{
+    margin-top:5px;
+     display:flex;
+    align-items:center;
+    justify-content:center;
+}
+#four{
+    margin-top:5px;
+     display:flex;
+    align-items:center;
+    justify-content:center;
+}
